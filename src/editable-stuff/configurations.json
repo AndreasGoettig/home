@@ -5,7 +5,7 @@
   "FirstName": "Andreas",
   "MiddleName": "",
   "LastName": "Göttig",
-  "devDesc": "| Engineer | Programmer | Web Developer | GameDev | Gamer ",
+  "devDesc": "| Programmer | Full Stack Developer | GameDev ",
   "icons": [
     {
       "id": 0,
@@ -43,7 +43,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "agoettig1",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm a Student at SAE Stuttgart, almost 2 years of experience python development. I’m currently employed at Socialtelligence as an allround Developer.",
+  "aboutDescription": "I'm a Student at SAE Stuttgart, almost 2 years of experience python development. I’m currently employed at socialtelligence as an allround Developer.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "andreasgoettig",
